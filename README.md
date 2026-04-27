@@ -1,13 +1,13 @@
 # 🏥 Healthcare Data Analysis using Python
 
-### 📌 Objective
+###  Objective
 This project focuses on analyzing **patient health data** to discover key insights such as age patterns, average health metrics, and overall trends in patient statistics.  
 The analysis is performed using **Python (Pandas, NumPy, Matplotlib, Seaborn)** in a Jupyter Notebook.
 
 
 ---
 
-### 🧰 Tools & Libraries
+###  Tools & Libraries
 - Python
 - Pandas
 - NumPy
@@ -17,7 +17,7 @@ The analysis is performed using **Python (Pandas, NumPy, Matplotlib, Seaborn)** 
 
 ---
 
-### 📊 Dataset Description
+###  Dataset Description
 The dataset (`patient_data.csv`) contains 1,500 records with the following columns:
 | Column | Description |
 |---------|-------------|
@@ -29,7 +29,7 @@ The dataset (`patient_data.csv`) contains 1,500 records with the following colum
 
 ---
 
-### 📈 Steps Performed
+###  Steps Performed
 1. **Data Import & Exploration**
 2. **Data Cleaning**
 3. **Exploratory Data Analysis (EDA)**
@@ -38,7 +38,7 @@ The dataset (`patient_data.csv`) contains 1,500 records with the following colum
 
 ---
 
-### 📋 Insights
+###  Insights
 - Elderly patients tend to have higher hospital expenses.
 - Common diseases include *Diabetes*, *Heart Disease*, and *Asthma*.
 - Gender distribution is nearly equal.
@@ -46,12 +46,12 @@ The dataset (`patient_data.csv`) contains 1,500 records with the following colum
 
 ---
 
-### 💡 Conclusion
+###  Conclusion
 This analysis helps hospitals and data analysts understand cost patterns and patient demographics for better planning and resource management.
 
 ---
 
-### 🚀 How to Run
+###  How to Run
 ```bash
 pip install -r requirements.txt
 jupyter notebook Healthcare_Data_Analysis.ipynb
