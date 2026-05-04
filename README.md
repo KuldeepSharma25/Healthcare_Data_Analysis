@@ -42,7 +42,7 @@ The dataset (`patient_data.csv`) contains 1,500 records with the following colum
 - Elderly patients tend to have higher hospital expenses.
 - Common diseases include *Diabetes*, *Heart Disease*, and *Asthma*.
 - Gender distribution is nearly equal.
-- Average hospital charges increase with age.
+- Average hospital charges increase with age. 
 
 ---
 
