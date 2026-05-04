@@ -2,7 +2,7 @@
 
 ###  Objective
 This project focuses on analyzing **patient health data** to discover key insights such as age patterns, average health metrics, and overall trends in patient statistics.  
-The analysis is performed using **Python (Pandas, NumPy, Matplotlib, Seaborn)** in a Jupyter Notebook.
+The analysis is performed using **Python (Pandas, NumPy, Matplotlib, Seaborn)** in a Jupyter Notebook. 
 
 
 ---
